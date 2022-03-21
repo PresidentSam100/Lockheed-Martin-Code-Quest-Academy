@@ -19,6 +19,8 @@ Problem B: Not So Self-Driving (Practice)
 
 Problem 1: Chinese Zodiac (Easy)
 
+Problem 2: Factorial! (Easy)
+
 Problem 3: Autocorrect (Easy)
 
 Problem 28: Anagram Checker (Easy)

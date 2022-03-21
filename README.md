@@ -17,13 +17,23 @@ Problem A: Hello, World! (Practice)
 
 Problem B: Not So Self-Driving (Practice)
 
+Problem 1: Chinese Zodiac (Easy)
+
 Problem 3: Autocorrect (Easy)
 
 Problem 28: Anagram Checker (Easy)
 
 Problem 44: Addiply (Easy)
 
+Problem 47: Charlie Quebec (Easy)
+
+Problem 48: Batter Up! (Easy)
+
 Problem 67: AEIOU (Easy)
+
+Problem 92: Caught Speeding (Easy)
+
+Problem 93: Brick House (Easy)
 
 Problem 94: Around and Around (Easy)
 

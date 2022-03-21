@@ -55,8 +55,10 @@ Problem 93: Brick House
 
 Problem 94: Around and Around
 
-Problem 115: Animal Farm (Easy)
+Problem 96: Foveated Rendering
 
-Problem 116: Data Lockdown (Easy)
+Problem 115: Animal Farm
 
-Problem 136: Anti-Asteroid Weapon (Easy)
+Problem 116: Data Lockdown
+
+Problem 136: Anti-Asteroid Weapon

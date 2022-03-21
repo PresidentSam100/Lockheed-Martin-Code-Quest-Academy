@@ -1,6 +1,7 @@
 import java.util.Scanner;
 // Problem 44: Addiply
 // Originally Published: Code Quest 2017
+// Difficulty: Easy
 // Code Written By: Sam L.
 public class Addiply {
     public static void main(String[] args) {

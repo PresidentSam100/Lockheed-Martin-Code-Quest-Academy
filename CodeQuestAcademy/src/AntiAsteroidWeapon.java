@@ -5,6 +5,7 @@ import java.util.Scanner;
 // Problem 136: Anti-Asteroid Weapon
 // Author: Author: Luis Rivera, Aguadilla, Puerto Rico, United States
 // Originally Published: Code Quest 2021
+// Difficulty: Easy
 // Code Written By: Sam L.
 public class AntiAsteroidWeapon {
     static class Asteroid

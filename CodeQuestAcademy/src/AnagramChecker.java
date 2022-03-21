@@ -2,6 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 // Problem 28: Anagram Checker
 // Originally Published: Code Quest 2016
+// Difficulty: Easy
 // Code Written By: Sam L.
 public class AnagramChecker {
     public static void main(String[] args) {

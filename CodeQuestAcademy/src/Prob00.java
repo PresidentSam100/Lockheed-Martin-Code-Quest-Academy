@@ -1,6 +1,7 @@
 import java.util.Scanner;
-// Hello World
-// Solution from Code Quest Academy
+// Problem A: Hello, World!
+// Original Solution from Code Quest Academy
+// Difficulty: Practice
 // Sam L.
 public class Prob00 {
     public static void main(String[] args) {

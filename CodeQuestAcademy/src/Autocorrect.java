@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 // Problem 3: Autocorrect
 // Author: Matthew Schmeiser, Montreal, Québec, Canada
+// Difficulty: Easy
 // Code Written By: Sam L.
 public class Autocorrect {
     public static void main(String[] args) {

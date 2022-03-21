@@ -1,6 +1,7 @@
 import java.util.Scanner;
 // Problem 67: AEIOU
 // Originally Published: Code Quest 2018
+// Difficulty: Easy
 // Code Written By: Sam L.
 public class AEIOU {
     public static void main(String[] args) {

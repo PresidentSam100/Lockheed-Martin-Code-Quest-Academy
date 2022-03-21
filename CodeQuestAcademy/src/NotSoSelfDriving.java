@@ -1,6 +1,7 @@
 import java.util.Scanner;
 // Problem B: Not So Self-Driving
 // Author: Chris Liu, California High School
+// Difficulty: Practice
 // Code Written By: Sam L.
 public class NotSoSelfDriving {
     public static void main(String[] args) {

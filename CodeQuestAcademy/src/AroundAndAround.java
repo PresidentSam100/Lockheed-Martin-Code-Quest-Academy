@@ -2,6 +2,7 @@ import java.util.Scanner;
 // Problem 94: Around and Around
 // Author: Chris Mason, Sunnyvale, California, United States
 // Originally Published: Code Quest 2019
+// Difficulty: Easy
 // Code Written By: Sam L.
 public class AroundAndAround {
     public static void main(String[] args) {

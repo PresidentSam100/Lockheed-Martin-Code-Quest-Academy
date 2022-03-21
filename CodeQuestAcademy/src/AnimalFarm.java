@@ -2,6 +2,7 @@ import java.util.Scanner;
 // Problem 115: Animal Farm
 // Author: Shelly Adamie, Fort Worth, Texas, United States
 // Originally Published: Code Quest Australia 2019
+// Difficulty: Easy
 // Code Written By: Sam L.
 public class AnimalFarm {
     public static void main(String[] args) {

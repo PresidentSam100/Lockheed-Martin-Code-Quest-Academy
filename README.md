@@ -31,6 +31,10 @@ Problem 48: Batter Up! (Easy)
 
 Problem 67: AEIOU (Easy)
 
+Problem 68: Color Wheel (Easy)
+
+Problem 74: Collatz Conjecture
+
 Problem 92: Caught Speeding (Easy)
 
 Problem 93: Brick House (Easy)

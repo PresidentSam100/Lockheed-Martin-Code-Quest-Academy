@@ -41,6 +41,8 @@ Problem 47: Charlie Quebec
 
 Problem 48: Batter Up!
 
+Problem 63: File Extensions
+
 Problem 67: AEIOU
 
 Problem 68: Color Wheel

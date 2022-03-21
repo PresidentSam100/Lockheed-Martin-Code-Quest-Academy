@@ -49,6 +49,8 @@ __Problem 68:__ Color Wheel
 
 __Problem 74:__ Collatz Conjecture
 
+__Problem 91:__ Goofy Gorillas
+
 __Problem 92:__ Caught Speeding
 
 __Problem 93:__ Brick House

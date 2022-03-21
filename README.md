@@ -29,6 +29,8 @@ __Problem 3:__ Autocorrect
 
 __Problem 5:__ Fibbing Fibonacci, Byteman!
 
+__Problem 12:__ Grains of Sand
+
 __Problem 28:__ Anagram Checker
 
 __Problem 44:__ Addiply

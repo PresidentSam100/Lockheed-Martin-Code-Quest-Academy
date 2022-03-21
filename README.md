@@ -29,6 +29,8 @@ Problem 28: Anagram Checker (Easy)
 
 Problem 44: Addiply (Easy)
 
+Problem 45: Fibonacci (Easy)
+
 Problem 46: Donor Sort (Easy)
 
 Problem 47: Charlie Quebec (Easy)

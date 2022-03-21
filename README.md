@@ -23,6 +23,8 @@ Problem 2: Factorial! (Easy)
 
 Problem 3: Autocorrect (Easy)
 
+Problem 5: Fibbing Fibonacci, Byteman! (Easy)
+
 Problem 28: Anagram Checker (Easy)
 
 Problem 44: Addiply (Easy)

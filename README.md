@@ -11,9 +11,7 @@ Credits for problem writers and contest used is given where it's due.
 
 Note: All code here is not intended for use by others and is merely for showcase.
 
-
-
-Solved Problems and difficulty (according to website):
+# Solved Problems and difficulty (according to website):
 
 Problem A: Hello, World! (Practice)
 

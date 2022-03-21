@@ -25,6 +25,8 @@ Problem 28: Anagram Checker (Easy)
 
 Problem 44: Addiply (Easy)
 
+Problem 46: Donor Sort (Easy)
+
 Problem 47: Charlie Quebec (Easy)
 
 Problem 48: Batter Up! (Easy)
@@ -33,7 +35,7 @@ Problem 67: AEIOU (Easy)
 
 Problem 68: Color Wheel (Easy)
 
-Problem 74: Collatz Conjecture
+Problem 74: Collatz Conjecture (easy)
 
 Problem 92: Caught Speeding (Easy)
 

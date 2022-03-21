@@ -15,50 +15,50 @@ Note: The Code in this repository shouldn't be used by others for direct submiss
 
 ## Practice
 
-Problem A: Hello, World!
+__Problem A:__ Hello, World!
 
-Problem B: Not So Self-Driving
+__Problem B:__ Not So Self-Driving
 
 ## Easy
 
-Problem 1: Chinese Zodiac
+__Problem 1:__ Chinese Zodiac
 
-Problem 2: Factorial!
+__Problem 2:__ Factorial!
 
-Problem 3: Autocorrect
+__Problem 3:__ Autocorrect
 
-Problem 5: Fibbing Fibonacci, Byteman!
+__Problem 5:__ Fibbing Fibonacci, Byteman!
 
-Problem 28: Anagram Checker
+__Problem 28:__ Anagram Checker
 
-Problem 44: Addiply
+__Problem 44:__ Addiply
 
-Problem 45: Fibonacci
+__Problem 45:__ Fibonacci
 
-Problem 46: Donor Sort
+__Problem 46:__ Donor Sort
 
-Problem 47: Charlie Quebec
+__Problem 47:__ Charlie Quebec
 
-Problem 48: Batter Up!
+__Problem 48:__ Batter Up!
 
-Problem 63: File Extensions
+__Problem 63:__ File Extensions
 
-Problem 67: AEIOU
+__Problem 67:__ AEIOU
 
-Problem 68: Color Wheel
+__Problem 68:__ Color Wheel
 
-Problem 74: Collatz Conjecture
+__Problem 74:__ Collatz Conjecture
 
-Problem 92: Caught Speeding
+__Problem 92:__ Caught Speeding
 
-Problem 93: Brick House
+__Problem 93:__ Brick House
 
-Problem 94: Around and Around
+__Problem 94:__ Around and Around
 
-Problem 96: Foveated Rendering
+__Problem 96:__ Foveated Rendering
 
-Problem 115: Animal Farm
+__Problem 115:__ Animal Farm
 
-Problem 116: Data Lockdown
+__Problem 116:__ Data Lockdown
 
-Problem 136: Anti-Asteroid Weapon
+__Problem 136:__ Anti-Asteroid Weapon

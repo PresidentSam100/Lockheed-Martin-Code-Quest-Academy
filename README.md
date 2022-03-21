@@ -59,6 +59,8 @@ __Problem 93:__ Brick House
 
 __Problem 94:__ Around and Around
 
+__Problem 95:__ Image Compression
+
 __Problem 96:__ Foveated Rendering
 
 __Problem 115:__ Animal Farm

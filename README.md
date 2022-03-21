@@ -3,13 +3,13 @@ My implementations of the Lockheed Martin Code Quest Academy problems.
 
 Link to Lockheed Martin Code Quest Academy: https://lmcodequestacademy.com/
 
-Solution code is all programmed by Sam L. (me).
+Solution code is all my original work (with the exception of Problem A).
 
 All code is currently in Java. C++ and/or Python implementations to come soon.
 
-Credits for problem writers and contest used is given where it's due.
+Credits for problem authors and original publication is given where it's due.
 
-Note: All code here is not intended for use by others and is merely for showcase.
+Note: The Code in this repository shouldn't be used by others for direct submission and is intended for showcase and/or leraning purposes.
 
 # Solved Problems:
 

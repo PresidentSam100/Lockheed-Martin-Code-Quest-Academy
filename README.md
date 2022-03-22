@@ -1,6 +1,6 @@
 # Lockheed Martin Code Quest Academy
 
-## Information
+## Information:
 
 My implementations of the Lockheed Martin Code Quest Academy problems.
 

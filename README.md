@@ -99,3 +99,7 @@ __Problem 118:__ Stalling Out
 __Problem 132:__ That's Odd
 
 __Problem 136:__ Anti-Asteroid Weapon
+
+### Medium
+
+### Hard

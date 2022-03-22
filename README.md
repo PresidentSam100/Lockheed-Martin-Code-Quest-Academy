@@ -36,6 +36,8 @@ __Problem 5:__ Fibbing Fibonacci, Byteman!
 
 __Problem 12:__ Grains of Sand
 
+__Problem 14:__ Is It Hot In Here?
+
 __Problem 27:__ What Triangle Is This?
 
 __Problem 28:__ Anagram Checker

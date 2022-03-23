@@ -44,6 +44,8 @@ __Problem 28:__ Anagram Checker
 
 __Problem 30:__ Who's the Valedictorian
 
+__Problem 42:__ Is There an Echo In Here?
+
 __Problem 43:__ Someting's Missing
 
 __Problem 44:__ Addiply

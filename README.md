@@ -32,9 +32,13 @@ __Problem 2:__ Factorial!
 
 __Problem 3:__ Autocorrect
 
+__Problem 4:__ Look After the Pennies
+
 __Problem 5:__ Fibbing Fibonacci, Byteman!
 
 __Problem 12:__ Grains of Sand
+
+__Problem 13:__ Leap Year
 
 __Problem 14:__ Is It Hot In Here?
 
@@ -66,6 +70,8 @@ __Problem 67:__ AEIOU
 
 __Problem 68:__ Color Wheel
 
+__Problem 69:__ Location Sortation
+
 __Problem 72:__ SufFIX
 
 __Problem 73:__ Rock, Paper, Scissors
@@ -87,6 +93,8 @@ __Problem 94:__ Around and Around
 __Problem 95:__ Image Compression
 
 __Problem 96:__ Foveated Rendering
+
+__Problem 113:__ Letter Counting
 
 __Problem 114:__ Round 'Em Up
 

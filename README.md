@@ -84,6 +84,8 @@ __Problem 68:__ Color Wheel
 
 __Problem 69:__ Location Sortation
 
+__Problem 70:__ Manipulation for Mass
+
 __Problem 72:__ SufFIX
 
 __Problem 73:__ Rock, Paper, Scissors

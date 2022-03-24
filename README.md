@@ -128,4 +128,9 @@ __Problem 136:__ Anti-Asteroid Weapon
 
 ### Medium
 
+__Problem 17:__ Aerospace Intruders
+
+__Problem 77:__ Apollo 13
+
+__Problem 78:__ Are Eucliding Me?
 ### Hard

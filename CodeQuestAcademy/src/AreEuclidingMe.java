@@ -1,7 +1,7 @@
 import java.util.Scanner;
-// Problem 77: Apollo 13
-// Difficulty: Medium
+// Problem 78: Are Eucliding Me?
 // Originally Published: Code Quest 2018
+// Difficulty: Medium
 // Code Written By: Sam L.
 public class AreEuclidingMe {
     public static void main(String[] args) {

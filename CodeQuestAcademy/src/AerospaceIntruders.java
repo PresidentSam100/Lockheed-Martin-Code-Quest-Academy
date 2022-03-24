@@ -3,8 +3,8 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.Scanner;
 // Problem 17: Aerospace Intruders
-// Difficulty: Medium
 // Originally Published: Code Quest 2015
+// Difficulty: Medium
 // Code Written By: Sam L.
 public class AerospaceIntruders {
     public static void main(String[] args) {

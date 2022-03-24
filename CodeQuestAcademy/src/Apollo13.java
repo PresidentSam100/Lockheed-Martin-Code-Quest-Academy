@@ -3,8 +3,8 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.Scanner;
 // Problem 77: Apollo 13
-// Difficulty: Medium
 // Originally Published: Code Quest 2018
+// Difficulty: Medium
 // Code Written By: Sam L.
 public class Apollo13 {
     public static void main(String[] args) {

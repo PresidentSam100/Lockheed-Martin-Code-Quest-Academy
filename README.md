@@ -66,6 +66,8 @@ __Problem 61:__ Who Sells More Newspapers?
 
 __Problem 63:__ File Extensions
 
+__Problem 66:__ Positive/Negative
+
 __Problem 67:__ AEIOU
 
 __Problem 68:__ Color Wheel
@@ -107,6 +109,8 @@ __Problem 117:__ Whack-A-Mole
 __Problem 118:__ Stalling Out
 
 __Problem 132:__ That's Odd
+
+__Problem 135:__ Phonebook
 
 __Problem 136:__ Anti-Asteroid Weapon
 

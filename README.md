@@ -8,7 +8,7 @@ Link to Lockheed Martin Code Quest Academy: https://lmcodequestacademy.com/
 
 Solution code is all my original work (with the exception of Problem A).
 
-All code is currently in Java. C++ and/or Python implementations to come soon.
+All code is currently in Java. C++, C#, and Python implementations to come soon.
 
 Credits for problem authors and original publication is given where it's due.
 

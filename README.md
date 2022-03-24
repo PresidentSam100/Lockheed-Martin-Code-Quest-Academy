@@ -72,6 +72,8 @@ __Problem 62:__ Mirror Mirror
 
 __Problem 63:__ File Extensions
 
+__Problem 64:__ Hidden Messages
+
 __Problem 65:__ Pass/Fail
 
 __Problem 66:__ Positive/Negative

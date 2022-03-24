@@ -50,6 +50,8 @@ __Problem 27:__ What Triangle Is This?
 
 __Problem 28:__ Anagram Checker
 
+__Problem 29:__ Mobile Miser
+
 __Problem 30:__ Who's the Valedictorian
 
 __Problem 42:__ Is There an Echo In Here?
@@ -137,4 +139,5 @@ __Problem 17:__ Aerospace Intruders
 __Problem 77:__ Apollo 13
 
 __Problem 78:__ Are Eucliding Me?
+
 ### Hard

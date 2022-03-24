@@ -36,11 +36,15 @@ __Problem 4:__ Look After the Pennies
 
 __Problem 5:__ Fibbing Fibonacci, Byteman!
 
+__Problem 11:__ Monogram
+
 __Problem 12:__ Grains of Sand
 
 __Problem 13:__ Leap Year
 
 __Problem 14:__ Is It Hot In Here?
+
+__Problem 15:__ Money, Money, Money!
 
 __Problem 27:__ What Triangle Is This?
 
@@ -83,6 +87,10 @@ __Problem 73:__ Rock, Paper, Scissors
 __Problem 74:__ Collatz Conjecture
 
 __Problem 75:__ Space Station Repair Lights
+
+__Problem 76:__ Palindrome Series
+
+__Problem 89:__ No More Shouting
 
 __Problem 90:__ Sum It Up
 

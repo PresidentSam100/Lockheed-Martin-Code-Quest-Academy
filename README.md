@@ -68,6 +68,8 @@ __Problem 48:__ Batter Up!
 
 __Problem 61:__ Who Sells More Newspapers?
 
+__Problem 62:__ Mirror Mirror
+
 __Problem 63:__ File Extensions
 
 __Problem 65:__ Pass/Fail

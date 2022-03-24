@@ -66,6 +66,8 @@ __Problem 61:__ Who Sells More Newspapers?
 
 __Problem 63:__ File Extensions
 
+__Problem 65:__ Pass/Fail
+
 __Problem 66:__ Positive/Negative
 
 __Problem 67:__ AEIOU

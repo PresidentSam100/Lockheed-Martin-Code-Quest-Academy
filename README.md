@@ -146,5 +146,7 @@ __Problem 78:__ Are Eucliding Me?
 
 __Problem 79:__ Bishop's Move
 
+__Problem 122:__ Divide By Zero
+
 __Problem 137:__ Dot Dot Dot
 ### Hard

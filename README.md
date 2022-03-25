@@ -136,8 +136,15 @@ __Problem 136:__ Anti-Asteroid Weapon
 
 __Problem 17:__ Aerospace Intruders
 
+__Problem 35:__ Encryption
+
+__Problem 50:__ Encode Quest
+
 __Problem 77:__ Apollo 13
 
 __Problem 78:__ Are Eucliding Me?
 
+__Problem 79:__ Bishop's Move
+
+__Problem 137:__ Dot Dot Dot
 ### Hard

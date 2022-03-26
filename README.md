@@ -140,11 +140,15 @@ __Problem 35:__ Encryption
 
 __Problem 50:__ Encode Quest
 
+__Problem 55:__ Dollar Bill Poker
+
 __Problem 77:__ Apollo 13
 
 __Problem 78:__ Are Eucliding Me?
 
 __Problem 79:__ Bishop's Move
+
+__Problem 99:__ Count to 10
 
 __Problem 122:__ Divide By Zero
 

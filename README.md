@@ -152,12 +152,18 @@ __Problem 79:__ Bishop's Move
 
 __Problem 99:__ Count to 10
 
+__Problem 105:__ Conway's Game of Life
+
 __Problem 119:__ CalculatOR
 
 __Problem 122:__ Divide By Zero
 
 __Problem 137:__ Dot Dot Dot
 
+__Problem 141:__ Confusing Conversions
+
 __Problem 142:__ Codebreaker
+
+__Problem 146:__ Confusing Conversions
 
 ### Hard

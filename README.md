@@ -136,6 +136,8 @@ __Problem 136:__ Anti-Asteroid Weapon
 
 __Problem 17:__ Aerospace Intruders
 
+__Problem 18:__ Carrier Landing
+
 __Problem 35:__ Encryption
 
 __Problem 50:__ Encode Quest
@@ -150,7 +152,12 @@ __Problem 79:__ Bishop's Move
 
 __Problem 99:__ Count to 10
 
+__Problem 119:__ CalculatOR
+
 __Problem 122:__ Divide By Zero
 
 __Problem 137:__ Dot Dot Dot
+
+__Problem 142:__ Codebreaker
+
 ### Hard

@@ -134,6 +134,8 @@ __Problem 136:__ Anti-Asteroid Weapon
 
 ### Medium
 
+__Problem 8:__ Pa$$w0rd
+
 __Problem 17:__ Aerospace Intruders
 
 __Problem 18:__ Carrier Landing
@@ -150,6 +152,8 @@ __Problem 78:__ Are Eucliding Me?
 
 __Problem 79:__ Bishop's Move
 
+__Problem 84:__ Piecewise Encrypter
+
 __Problem 99:__ Count to 10
 
 __Problem 105:__ Conway's Game of Life
@@ -158,7 +162,11 @@ __Problem 119:__ CalculatOR
 
 __Problem 122:__ Divide By Zero
 
+__Problem 125:__ Pascal's Triangle
+
 __Problem 137:__ Dot Dot Dot
+
+__Problem 139:__ Normal Math
 
 __Problem 141:__ Confusing Conversions
 

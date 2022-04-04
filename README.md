@@ -274,33 +274,63 @@ __Problem 55:__ Dollar Bill Poker
 
 __Problem 77:__ Apollo 13
 
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/Apollo13.java)
+
 __Problem 78:__ Are Eucliding Me?
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/AreEuclidingMe.java)
 
 __Problem 79:__ Bishop's Move
 
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/BishopsMove.java)
+
 __Problem 84:__ Piecewise Encrypter
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/PiecewiseEncrypter.java)
 
 __Problem 99:__ Count to 10
 
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/CountTo10.java)
+
 __Problem 105:__ Conway's Game of Life
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/ConwaysGameOfLife.java)
 
 __Problem 119:__ CalculatOR
 
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/CalculatOR.java)
+
 __Problem 122:__ Divide By Zero
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/DivideByZero.java)
 
 __Problem 125:__ Pascal's Triangle
 
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/PascalsTriangle.java)
+
 __Problem 137:__ Dot Dot Dot
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/DotDotDot.java)
 
 __Problem 139:__ Normal Math
 
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/NormalMath.java)
+
 __Problem 141:__ Confusing Conversions
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/ConfusingConversions.java)
 
 __Problem 142:__ Codebreaker
 
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/Codebreaker.java)
+
 __Problem 146:__ Countdown To Launch
 
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/CoutdownToLaunch.java)
+
 __Problem 147:__ Playing with Polynomials
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/PlayingWithPolynomials.java)
 
 
 ### Hard

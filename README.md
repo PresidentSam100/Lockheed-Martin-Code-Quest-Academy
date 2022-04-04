@@ -14,6 +14,8 @@ Credits for problem authors and original publication is given where it's due.
 
 Note: The Code in this repository shouldn't be used by others for direct submission and is intended for showcase and/or leraning purposes.
 
+Please contact me if you find any broken links or errors in the code. :)
+
 ## Solved Problems:
 
 ### Practice

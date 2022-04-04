@@ -174,4 +174,7 @@ __Problem 142:__ Codebreaker
 
 __Problem 146:__ Countdown To Launch
 
+__Problem 147:__ Playing with Polynomials
+
+
 ### Hard

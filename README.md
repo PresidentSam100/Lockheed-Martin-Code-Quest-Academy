@@ -172,45 +172,85 @@ __Problem 74:__ Collatz Conjecture
 
 __Problem 75:__ Space Station Repair Lights
 
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/SpaceStationRepairLights.java)
+
 __Problem 76:__ Palindrome Series
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/PalindromeSeries.java)
 
 __Problem 89:__ No More Shouting
 
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/NoMoreShouting.java)
+
 __Problem 90:__ Sum It Up
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/SumItUp.java)
 
 __Problem 91:__ Goofy Gorillas
 
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/GoofyGorillas.java)
+
 __Problem 92:__ Caught Speeding
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/CaughtSpeeding.java)
 
 __Problem 93:__ Brick House
 
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/BrickHouse.java)
+
 __Problem 94:__ Around and Around
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/AroundAndAround.java)
 
 __Problem 95:__ Image Compression
 
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/ImageCompression.java)
+
 __Problem 96:__ Foveated Rendering
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/FoveatedRendering.java)
 
 __Problem 113:__ Letter Counting
 
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/LetterCounting.java)
+
 __Problem 114:__ Round 'Em Up
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/RoundEmUp.java)
 
 __Problem 115:__ Animal Farm
 
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/AnimalFarm.java)
+
 __Problem 116:__ Data Lockdown
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/NoMoreShouting.java)
 
 __Problem 117:__ Whack-A-Mole
 
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/WhackAMole.java)
+
 __Problem 118:__ Stalling Out
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/StallingOut.java)
 
 __Problem 132:__ That's Odd
 
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/ThatsOdd.java)
+
 __Problem 135:__ Phonebook
 
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/Phonebook.java)
+
 __Problem 136:__ Anti-Asteroid Weapon
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/AntiAsteroidWeapon.java)
 
 ### Medium
 
 __Problem 8:__ Pa$$w0rd
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/Pa$$w0rd.java)
 
 __Problem 17:__ Aerospace Intruders
 
@@ -218,11 +258,19 @@ __Problem 17:__ Aerospace Intruders
 
 __Problem 18:__ Carrier Landing
 
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/CarrierLanding.java)
+
 __Problem 35:__ Encryption
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/Encryption.java)
 
 __Problem 50:__ Encode Quest
 
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/EncodeQuest.java)
+
 __Problem 55:__ Dollar Bill Poker
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/DollarBillPoker.java)
 
 __Problem 77:__ Apollo 13
 

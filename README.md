@@ -248,6 +248,10 @@ __Problem 136:__ Anti-Asteroid Weapon
 
 ### Medium
 
+__Problem 6:__ The Calliframe
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/TheCalliframe.java)
+
 __Problem 8:__ Pa$$w0rd
 
 [(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/Pa$$w0rd.java)

@@ -334,7 +334,7 @@ __Problem 142:__ Codebreaker
 
 __Problem 146:__ Countdown To Launch
 
-[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/CoutdownToLaunch.java)
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/CountdownToLaunch.java)
 
 __Problem 147:__ Playing with Polynomials
 

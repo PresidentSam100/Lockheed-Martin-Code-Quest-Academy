@@ -284,9 +284,17 @@ __Problem 79:__ Bishop's Move
 
 [(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/BishopsMove.java)
 
+__Problem 82:__ Peoplebook
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/Peoplebook.java)
+
 __Problem 84:__ Piecewise Encrypter
 
 [(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/PiecewiseEncrypter.java)
+
+__Problem 97:__ Time and Time Again
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/TimeAndTimeAgain.java)
 
 __Problem 99:__ Count to 10
 

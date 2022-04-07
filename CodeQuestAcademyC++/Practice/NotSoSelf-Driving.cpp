@@ -16,15 +16,15 @@ int main()
 {
 	cin >> T;
 	for (lli t = 0; t < T; t++) {
-		cin >> S;		
+		cin >> S;
 		V = stod(S.substr(0, S.find(":")));
 		X = stod(S.substr(S.find(":") + 1));
 		if (X / V <= 1)
-            cout << "SWERVE" << endl;
-        else if (X / V <= 5)
-            cout << "BRAKE" << endl;
-        else
-            cout << "SAFE" << endl;
+			cout << "SWERVE" << endl;
+		else if (X / V <= 5)
+			cout << "BRAKE" << endl;
+		else
+			cout << "SAFE" << endl;
 	}
 }
 

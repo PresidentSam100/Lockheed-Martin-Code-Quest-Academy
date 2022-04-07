@@ -83,6 +83,7 @@ __Problem 27:__ What Triangle Is This?
 __Problem 28:__ Anagram Checker
 
 [(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/AnagramChecker.java)
+[(C++ Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademyC++/Easy/AnagramChecker.cpp)
 
 __Problem 29:__ Mobile Miser
 

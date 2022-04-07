@@ -30,6 +30,7 @@ int main()
 			cout << S << " = NOT AN ANAGRAM" << endl;
 		}
 	}
+	return 0;
 }
 
 /*

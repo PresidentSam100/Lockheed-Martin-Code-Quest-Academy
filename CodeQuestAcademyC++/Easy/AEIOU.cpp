@@ -25,6 +25,7 @@ int main()
 		}
 		cout << V << endl;
 	}
+	return 0;
 }
 
 /*

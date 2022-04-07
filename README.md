@@ -23,10 +23,12 @@ Please contact me if you find any broken links or errors in the code. :)
 __Problem A:__ Hello, World!
 
 [(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/Prob00.java)
+[(C++ Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademyC++/Practice/HelloWorld.cpp)
 
 __Problem B:__ Not So Self-Driving
 
 [(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/NotSoSelfDriving.java)
+[(C++ Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademyC++/Practice/NotSoSelf-Driving.cpp)
 
 ### Easy
 
@@ -101,6 +103,7 @@ __Problem 43:__ Someting's Missing
 __Problem 44:__ Addiply
 
 [(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/Addiply.java)
+[(C++ Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademyC++/Easy/Addiply.cpp)
 
 __Problem 45:__ Fibonacci
 
@@ -145,6 +148,7 @@ __Problem 66:__ Positive/Negative
 __Problem 67:__ AEIOU 
 
 [(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/AEIOU.java)
+[(C++ Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademyC++/Easy/AEIOU.cpp)
 
 __Problem 68:__ Color Wheel
 

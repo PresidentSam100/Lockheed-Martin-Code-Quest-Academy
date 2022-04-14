@@ -261,6 +261,10 @@ __Problem 8:__ Pa$$w0rd
 
 [(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/Pa$$w0rd.java)
 
+__Problem 16:__ Word Worm
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/WordWorm.java)
+
 __Problem 17:__ Aerospace Intruders
 
 [(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/AerospaceIntruders.java)

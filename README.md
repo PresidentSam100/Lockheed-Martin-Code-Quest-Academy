@@ -353,5 +353,8 @@ __Problem 147:__ Playing with Polynomials
 
 [(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/PlayingWithPolynomials.java)
 
+__Problem 151:__ Bring John Glenn Home
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/BringJohnGlennHome.java)
 
 ### Hard

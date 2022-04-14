@@ -301,6 +301,10 @@ __Problem 84:__ Piecewise Encrypter
 
 [(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/PiecewiseEncrypter.java)
 
+__Problem 86:__ Tic Tac Toe Checker
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/TicTacToeChecker.java)
+
 __Problem 97:__ Time and Time Again
 
 [(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/TimeAndTimeAgain.java)

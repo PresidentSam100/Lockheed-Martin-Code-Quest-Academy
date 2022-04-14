@@ -345,6 +345,10 @@ __Problem 142:__ Codebreaker
 
 [(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/Codebreaker.java)
 
+__Problem 145:__ Caesar With a Shift
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/CaesarWithAShift.java)
+
 __Problem 146:__ Countdown To Launch
 
 [(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/CountdownToLaunch.java)

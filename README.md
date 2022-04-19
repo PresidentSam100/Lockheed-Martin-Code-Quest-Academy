@@ -76,6 +76,10 @@ __Problem 15:__ Money, Money, Money!
 
 [(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/MoneyMoneyMoney.java)
 
+__Problem 26:__ Change for the World
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/ChangeForTheWorld.java)
+
 __Problem 27:__ What Triangle Is This?
 
 [(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/WhatTriangleIsThis.java)
@@ -242,6 +246,10 @@ __Problem 118:__ Stalling Out
 __Problem 132:__ That's Odd
 
 [(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/ThatsOdd.java)
+
+__Problem 133:__ Bigger Is Better
+
+[(Java Code)](https://github.com/PresidentSam100/Lockheed-Martin-Code-Quest-Academy/blob/main/CodeQuestAcademy/src/BiggerIsBetter.java)
 
 __Problem 135:__ Phonebook
 
